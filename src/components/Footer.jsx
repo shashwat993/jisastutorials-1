@@ -9,7 +9,7 @@ export default function Footer() {
         <div>
           <Image src="/jisas-tutorials.jpg" alt="AMA Logo" width={150} height={80} />
           <p className="mt-4 text-sm">
-            Askmeassignment.com aims to provide affordable academic writing assistance to students worldwide, ensuring high-quality service at prices that align with our established criteria.
+            jisastutorials.com aims to provide affordable academic writing assistance to students worldwide, ensuring high-quality service at prices that align with our established criteria.
           </p>
         </div>
 
